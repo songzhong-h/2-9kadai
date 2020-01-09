@@ -60,10 +60,13 @@ main{
 	main{
 		width:90%;
 		float:none;
-		padding:20px 0;
 	}
 	.step-box{
-		width:90%;
+		width:100%;
+		margin-bottom:20px;
+		margin-right:0;
+		padding:10px;
+		float:none;
 	}
 }
 
